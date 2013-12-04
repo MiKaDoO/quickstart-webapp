@@ -1,0 +1,25 @@
+{
+  "name": "quickstart-webapp",
+  "version": "0.0.1",
+  "description": "quickstart-webapp",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+	"bower": "~1.2.8",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "scripts": {
+    "test": "none",
+    "start": "none"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "mickael metesreau",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
