@@ -8,5 +8,6 @@ Asumming you have [Node.js](http://nodejs.org/) installed on your machine:
 
 ```sh
 npm install
-grunt dev
+npm server
+npm test
 ```
